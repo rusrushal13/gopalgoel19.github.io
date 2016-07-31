@@ -1,2 +1,2 @@
-# gopalgoel.github.io
+# www.gopalgoel.xyz
 Personal Website
