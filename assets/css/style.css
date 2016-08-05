@@ -1,3 +1,13 @@
+/*------------------------------------------------------------------
+
+[Master Stylesheet]
+Project:	    Matarial CV/Resume Template 
+Version:	    1.0
+Last change:	06/02/16 
+Primary use:	CV/Resume, Portfolio, Perosnal Website 
+
+-------------------------------------------------------------------*/
+/*
 |----------------------------------------------------------------------------
 | CSS INDEX
 |----------------------------------------------------------------------------
@@ -35,7 +45,7 @@
 p {
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
-  font-size: 13pt;
+  font-size: 10pt;
   line-height: 17pt;
 }
 a {
