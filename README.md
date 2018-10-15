@@ -45,6 +45,6 @@ References
 Acknowledgments
 -
 Hacktoberfest gives programmers the opportunity to help and support each other. It is not so much about getting a T-Shirt,
-but gaining experience. This should be a really fun experience and participation is not mandatory. This project will be an interesting one and I recommend that all you of please share your professional knowledge on how to improve the website by making it more attractive and user-friendly. Thank you guys!
+but gaining experience. This should be a really fun experience and participation is not mandatory. This project will be an interesting one and I recommend that all of you please share your professional knowledge on how to improve the website by making it more attractive and user-friendly. Thank you guys!
 
 Happy Coding!!!
